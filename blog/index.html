@@ -5,6 +5,7 @@ layout: default
 <section id="one" >
     <div class="container">
         {% for post in site.posts limit:1 %}
+        {% if post.category == 'project' %}
             <article>
               <section class="excerpt">
               <header>
@@ -20,6 +21,7 @@ layout: default
               </footer>
               <div class="clear"></div>
             </article>
+            {% endif %}
         {% endfor %}
     </div>
 </section>
@@ -27,6 +29,7 @@ layout: default
     <div class="container">
         <div class="features">
         {% for post in site.posts offset:1 %}
+        {% if post.category == 'project' %}
             <article>
                 <section class="excerpt">
                 <header>
@@ -42,6 +45,7 @@ layout: default
                 </footer>
                 <div class="clear"></div>
             </article>
+              {% endif %}
         {% endfor %}
         </div>
     </div>

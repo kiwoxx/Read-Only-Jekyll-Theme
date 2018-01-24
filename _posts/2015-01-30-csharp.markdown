@@ -1,0 +1,26 @@
+---
+title: "Csharp"
+layout: post
+date: 2018-01-15 00:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: competences
+author: Lucas
+description: Compétence en C#
+permalink: /csharp.html
+---
+
+
+[documentation](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjqwLn2i9_YAhUJxRQKHUdvArUQFghjMAg&url=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Fdotnet%2Fcsharp%2F&usg=AOvVaw24rMfLOp9I0GOl0SJ8mDuC)
+
+Compétences mise en oeuvre dans le(s) projet(s) :
+
+- [PixLogic]({{site.url}}/myportfolio/PixLogic)
+
+Développements réalisés
+- EntityFramework
+- Interface utilisateur avec Windows Form
