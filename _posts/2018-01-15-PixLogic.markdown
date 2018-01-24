@@ -27,7 +27,7 @@ Compétences mises en oeuvre dans ce Projet :
 - [C# => Entity Framework, Windows Form]({{site.url}}/myportfolio/csharp)
 - MySQL
 - Management d'une équipe
-- Analyse des besoins client
+- [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
 - Rédaction de spécifications
 
 
