@@ -4,7 +4,7 @@ layout: post
 date: 2018-01-15 00:00
 tag:
 image:
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in competences pagination
 description: "Logiciel de gestion pour une école réalisé en semestre 4"
@@ -26,10 +26,6 @@ Compétences mises en oeuvre dans ce Projet :
 
 
 <div class="side-by-side">
-    <div class="toleft">
-      <img class="image" src="{{ site.url }}/{{ site.projets.PixLogic.image }}" alt="Alt Text">
-      <figcaption class="caption">Page d'acceuil de PixLogic</figcaption>
-    </div>
 
     <div class="toright">
         <p>Le projet PixLogic avait pour but principal de fournir une solution logicielle au personnel de l’école de photographie CE3P, située à Ivry-sur-Seine à proximité de l’école INTECH.
@@ -39,14 +35,17 @@ Compétences mises en oeuvre dans ce Projet :
 
 
 Nous avons donc tout d’abord pris contact avec les responsables techniques de CE3P, afin d’organiser une réunion devant nous permettre d’analyser et de bien comprendre leurs besoins. Nous avions ensuite des réunions lors de chaque itération afin de leur présenter l’avancée du projet et de s’assurer que nous répondions bien aux attentes. Il a également fallu s’adapter à certains changements : leurs spécifications ont changées au cours du projet et ils ont souhaité modifier certains concepts du logiciel afin de subvenir aux mieux à leurs besoins.
+
 Ce logiciel devait permettre de gérer les utilisateurs et le matériel via notre base de données, et d’effectuer des réservations de matériels.
 Les utilisateurs devaient pouvoir réserver un matériel sur une durée précise, pouvoir modifier cette réservation, emprunter ensuite l’objet. A chaque étape les données étaient accessibles afin de savoir quels utilisateurs empruntaient quel objet à n’importe quelle date. Un système de log a été mis en place pour avoir accès à toutes les réservations aux dates voulues selon un type de matériel ou un utilisateur particulier. Un export des données devait également être possible selon différents critères, afin de réaliser leurs fiches bilan selon un matériel ou un utilisateur.
 L’interface devait être ergonomique et facile d’accès, le but étant de remplacer l’ancien fonctionnement de l’école CE3P qui utilisait des fiches Excel. Nous devions leur faire gagner du temps, de l’efficacité, et empêcher d’éventuelles erreurs.
+
 Au niveau du travail d’équipe, j’ai assigné les différentes taches aux membres du groupe. Je devais me charger d’organiser des réunions fréquentes afin de savoir où en était l’avancement et gérer les problèmes. Il a fallu s’entraider sur certains problèmes et mettre en commun notre travail. Nous utilisions le logiciel de gestion de version Git pour travailler en parallèle et ne pas subir de conflits entre nos travaux. Nous utilisions Trello pour la gestion des tâches et les outils habituels de communication pour discuter entre nous.
 Concernant les technologies techniques utilisées pour ce projet, nous avons principalement développé en C#, en utilisant WinForm. Nous avons adopté un système de conteneur de services afin de simplifier notre code et le rendre facilement modulable et maintenable.
 Une base de données MySQL nous a permis de stocker nos données. Nous utilisions Entity Framework, un ORM C#, pour communiquer simplement avec la base et simplifier grandement le code sans passer par des requêtes SQL classiques.
+
 Le projet a enfin été installé sur les postes des clients, qui ont été pleinement satisfaits de notre travail. Ce projet a été la première réalisation majeure effectuée pour le compte de clients réels lors de mes études. Il a été très instructif sur le plan fonctionnel comme sur le plan technique.
 J’ai dû gérer la communication interne de l’équipe et les problèmes rencontrés, le compte rendu des itérations avec les présentations orales, les réunions avec les clients afin de rédiger les spécifications adaptés.
 
-<img src="{{ site.baseurl }}/images/LogoPixlogic.jpg">
+<img src="{{ site.baseurl }}/images/LogoPixlogic.png">
 ---
