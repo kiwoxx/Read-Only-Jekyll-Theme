@@ -14,13 +14,7 @@ externalLink: false
 permalink: /PixLogic.html
 ---
 
-<img src="{{ site.baseurl }}/images/pic03.jpg">
 Le projet PixLogic avait pour but principal de fournir une solution logicielle au personnel de l’école de photographie CE3P, afin de leur permettre de gérer leurs stocks de matériels.
-
-
-{{ site.projets.PixLogic.name }}
-[Demo]({{site.projets.PixLogic.url}}).
-[intech](www.intechinfo.fr)
 
 Compétences mises en oeuvre dans ce Projet :
 
@@ -53,4 +47,6 @@ Concernant les technologies techniques utilisées pour ce projet, nous avons pri
 Une base de données MySQL nous a permis de stocker nos données. Nous utilisions Entity Framework, un ORM C#, pour communiquer simplement avec la base et simplifier grandement le code sans passer par des requêtes SQL classiques.
 Le projet a enfin été installé sur les postes des clients, qui ont été pleinement satisfaits de notre travail. Ce projet a été la première réalisation majeure effectuée pour le compte de clients réels lors de mes études. Il a été très instructif sur le plan fonctionnel comme sur le plan technique.
 J’ai dû gérer la communication interne de l’équipe et les problèmes rencontrés, le compte rendu des itérations avec les présentations orales, les réunions avec les clients afin de rédiger les spécifications adaptés.
+
+<img src="{{ site.baseurl }}/images/LogoPixlogic.jpg">
 ---
