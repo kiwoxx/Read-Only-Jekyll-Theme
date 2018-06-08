@@ -11,7 +11,7 @@ star: true
 category: competences
 author: Lucas
 description: Compétence en Web : PHP/HTML/CSS
-permalink: /web.html
+permalink: /php.html
 ---
 
 
