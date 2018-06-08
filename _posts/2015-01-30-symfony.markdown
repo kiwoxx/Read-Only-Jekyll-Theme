@@ -1,0 +1,21 @@
+---
+title: "Symfony"
+layout: post
+date: 2018-01-15 00:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: competences
+author: Lucas
+description: Compétence sur le Framework Symfony
+permalink: /symfony.html
+---
+
+
+
+Compétences mise en oeuvre dans le(s) projet(s) :
+
+- [Alltricks]({{site.url}}/myportfolio/Alltricks)

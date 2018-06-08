@@ -1,0 +1,24 @@
+---
+title: "web"
+layout: post
+date: 2018-01-15 00:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: competences
+author: Lucas
+description: Compétence en Web : PHP/HTML/CSS
+permalink: /web.html
+---
+
+
+Compétences mise en oeuvre dans le(s) projet(s) :
+
+- [PixLogic]({{site.url}}/myportfolio/PixLogic)
+
+Développements réalisés
+- BackOffice Alltricks
+- Mini Site , projet à l'université

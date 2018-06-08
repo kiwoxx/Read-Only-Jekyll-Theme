@@ -1,0 +1,23 @@
+---
+title: "Java"
+layout: post
+date: 2018-01-15 00:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: competences
+author: Lucas
+description: Compétence en Java
+permalink: /java.html
+---
+
+
+Compétences mise en oeuvre dans le(s) projet(s) :
+
+- [SmartHome]({{site.url}}/myportfolio/SmartHome)
+
+Développements réalisés
+- Logiciel de gestion de SmartHome
