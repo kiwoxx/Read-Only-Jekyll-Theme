@@ -14,13 +14,22 @@ description: Affinité pour le travail en équipe
 permalink: /team.html
 ---
 
+Compétence humaine : Travail en équipe
 
-[documentation](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjqwLn2i9_YAhUJxRQKHUdvArUQFghjMAg&url=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Fdotnet%2Fcsharp%2F&usg=AOvVaw24rMfLOp9I0GOl0SJ8mDuC)
+« L'union fait la force »
+
+Lors d’un des projets effectué à l’école INTECH, nous avons eu plusieurs problémes de communication au sein de l’équipe.
+Un membre de l’équipe n’étant pas interessé par le projet, nous étions en retard sur la date de rendu et le projet semblais mal engagé.
+Nous avons donc pris la décision de modifier l assignation des taches et de faire tra-vailler chacun sur ce qui lui plaisait le plus, et de prendre des créneaux pour aider les personnes du groupe possédant des difficultés sur une partie du travail.
+Lors de l’itération suivante, nous avions rattrapé notre retard et nous avons finalement rendu le projet dans les temps et en repondant aux spécifications.
+Cela m’a démontré l’importance de la communication et de la bonne entente au sein d’une equipe dans notre métier de développeur.
+
+Objectifs :
+ - Communiquer ensemble afin de résoudres les problémes
+ - Adapter les tâches correspondant le mieux a chacun
+ - Travailler dans un environnement favorable afin d'améliorer la productivité
+
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
-
-Développements réalisés
-- EntityFramework
-- Interface utilisateur avec Windows Form

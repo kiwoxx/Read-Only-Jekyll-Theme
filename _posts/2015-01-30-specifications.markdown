@@ -14,13 +14,21 @@ description: Compétence en rédaction de spécifications
 permalink: /specifications.html
 ---
 
+Compétence humaine : Rédaction de spécifications
 
-[documentation](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjqwLn2i9_YAhUJxRQKHUdvArUQFghjMAg&url=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Fdotnet%2Fcsharp%2F&usg=AOvVaw24rMfLOp9I0GOl0SJ8mDuC)
+« Les specifications : la clé d'un développement de qualité »
+
+Lors de mon projet de fin d’étude de licence informatique à l’université, j’ai du rédiger les spécifications fonctionnelles et techniques pour mon équipe.
+J’ai tout d’abord analysé les besoins et demandes du client, et j’ai rédigé ce document.
+Certaines de ces spécifications n’étant pas assez claires pour mon équipe, j’ai du perdre du temps par la suite pour expliquer les besoins et mieux redéfinir les attentes.
+J’ai donc appris qu’il est essentiel d’exprimer clairement le besoin afin que le développeur puisse ensuite facilement effectuer son travail, la perte de temps en cas de question ou pire en cas de développement ne correspondant pas etant immense.
+Il faut mieux prendre plus de temps pour réaliser des spécifications que qualité plutôt que de le regretter dans le futur.
+
+Objectifs :
+ - Repondre aux besoins du client
+ - Rendre cela compréhensible aisément par le développeur
+ - Ne pas laisser de zones d'ombre quand au développement a fournir
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
-
-Développements réalisés
-- EntityFramework
-- Interface utilisateur avec Windows Form
