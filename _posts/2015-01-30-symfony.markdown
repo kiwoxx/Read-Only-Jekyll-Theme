@@ -15,6 +15,16 @@ permalink: /symfony.html
 ---
 
 
+<b>Symfony : Un Framework d’actualité</b>
+
+Le Framework PHP Symfony est une des technologies en vogue actuellement (plus de 300 000 développeurs) dans de nombreuses sociétés, notamment dans le secteur du E-commerce.
+Son utilisation des micro-services et son architecture Modèle Vue Controller en font un Framework de référence pour concevoir des sites web de qualité : un code plus facilement maintenable que du PHP classique, une fiabilité via des fonctions de petite taille n’effectuant qu’un rôle précis, ect...
+
+<b>Mon Expérience de développeur chez Alltricks</b>
+
+J’ai travaillé lors de mon apprentissage de 2 ans et demi en tant que développeur WEB chez Alltricks, un site E-commerce spécialisé dans les articles de sport (700 000 clients, 1,4 millions de produits expédiés, et plus de 22 millions de visites en 2017).  
+Notre objectif était de migrer un site legacy (une ancienne version) conçu en PHP, et de le faire passer sous Symfony, en respectant les bons principes de programmation (SOLID, utilisations des micro-services, clarifier le code) afin de rendre ce site fiable et maintenable pour faciliter nos évolutions futures.
+J’ai donc appris à utiliser ce Framework en liaison avec plusieurs API externes (RabbitMQ, Sparkow, Sage), tout en me focalisant sur l’efficacité et la maintenabilité du code.
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
