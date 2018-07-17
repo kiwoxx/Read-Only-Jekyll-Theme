@@ -14,12 +14,16 @@ externalLink: false
 permalink: /zone-outdoor.html
 ---
 
-todo
+Zone Outdoor est un site de la société Avanis utilisé pour la vente aux professionnels
+de materiels de vélo et running.
+Il permet aux utilisateurs y ayant accés de béneficier de prix attractifs.
+Ce site est développé en PHP et nous devions effectuer de nombreuses corrections de bugs et ajustements
+afin de correspondres aux modifications effectuées en paralléle sur le site Alltricks développé sous Symfony.
 
 Compétences mises en oeuvre dans ce Projet :
 
 - [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/web)
-- MySQL
+- [MySQL]({{site.url}}/myportfolio/mysql)
 - [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
 
 
