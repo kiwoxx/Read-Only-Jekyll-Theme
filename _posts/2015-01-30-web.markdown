@@ -14,11 +14,32 @@ description: Compétence en Web : PHP/HTML/CSS
 permalink: /php.html
 ---
 
+<center>Les bases indispensables en développement Web</center>
+
+<p>
+Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont necessaires quelque
+soit le langage ou les Frameworks utilisés dans le cadre du développement d'un site internet moderne.
+Tout développeur Web, back-end ou front-end, doit maitriser les concepts de base.
+Etant particuliérement interessé par le développement Web, j'ai appris au cours de mon cursus et de mes
+premières expériences professionnelles à maitriser ces différentes technologies.
+</p>
+
+<center>Mon experience</center>
+
+<p>
+Lors de mon apprentissage chez Alltricks, j'ai travaillé sur le site ZoneOutdoor, développé
+en PHP et utilisant HTML, CSS et Javascript.
+Le Back-office utilisé par nos métiers était également développé en PHP sans utiliser de Framework tel
+que Symfony.
+J'ai effectué de nombreuses corrections de bugs et ajouts de fonctionnalités.
+Je travaillais en tant que développeur back-end, mais j'ai également effectué plusieurs
+tâches front-end : création de nouvelles pages dans le back-office, modifications de pages
+sur le site zone-outdoor (tunnel de paiement, pages produits, ...).
+</p>
+
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
-- [PixLogic]({{site.url}}/myportfolio/PixLogic)
+- [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor)
+- [Backoffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice)
 
-Développements réalisés
-- BackOffice Alltricks
-- Mini Site , projet à l'université

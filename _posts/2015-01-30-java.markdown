@@ -21,3 +21,5 @@ Compétences mise en oeuvre dans le(s) projet(s) :
 
 Développements réalisés
 - Logiciel de gestion de SmartHome
+- Application Android sous AndroidStudio
+- Mini-jeux 

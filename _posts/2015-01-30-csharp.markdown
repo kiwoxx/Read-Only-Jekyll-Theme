@@ -14,13 +14,12 @@ description: Compétence en C#
 permalink: /csharp.html
 ---
 
-
-[documentation](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjqwLn2i9_YAhUJxRQKHUdvArUQFghjMAg&url=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Fdotnet%2Fcsharp%2F&usg=AOvVaw24rMfLOp9I0GOl0SJ8mDuC)
+<b> </b>
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
 
 Développements réalisés
-- EntityFramework
+- communication avec la bdd grace à EntityFramework
 - Interface utilisateur avec Windows Form
