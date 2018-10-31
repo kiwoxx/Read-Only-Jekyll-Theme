@@ -30,7 +30,13 @@ Compétences mises en oeuvre dans ce Projet :
     </div>
 </div>
 <div>
-    
+    Nous avons réalisé une partie du jeu, une scéne contenant un campement qui permet
+    de créer des troupes, les améliorer, et obtenir différents objets necessaires a la
+    progression du joueur.
+    Nous avons donc du gérer la partie graphique, via Unity 3D, et la partie scipts
+    en C# permettant au jeu de fonctionner et d'interagir avec la base de données.
+    Ce jeu était jouable a la fin de notre projet, et les principales fonctionnalités prévues
+    étaient présentes pour la présentation finale.
 </div>
 
 ---

@@ -14,12 +14,26 @@ description: Compétence en C#
 permalink: /csharp.html
 ---
 
-<b> </b>
+<b>Le langage phare de Microsoft</b>
+Le C# est un langage de programmation orienté objet, commercialisé par Microsoft.
+C'est un langage proche du Java, un langage que je maitrisais lorsque j'ai débuté dans cette technologie.
+
+
+<b>Un langage appris à InTech dans le cadre de mon diplome d'expert en ingénierie du logiciel</b>
+J'ai utilisé ce langage lors de mes études à InTech.
+Nous avons réalisés 2 projets majeurs, pendant une durée de 4 mois chacun :
+- PixLogic, un logiciel de gestion du matériel et des réservations pour l'école de photographie
+C3P. Nous avons réalisés ce projet a 3, et le logiciel a finalement été installé sur les postes des clients
+- SynoukMustDie : un jeu réalisé a l'aide d'Unity3D qui utilise des scripts écrits en C#.
+Ce projet a été réalisé en semestre 5 avec une équipe de 5 autres étudiants.
+
+Nous avons également réalisés de nombreux exercices pendant notre formation, dans de différents domaines.
+
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
 
-Développements réalisés
-- communication avec la bdd grace à EntityFramework
+Frameworks utilisés :
+- Communication avec la bdd grace à EntityFramework
 - Interface utilisateur avec Windows Form

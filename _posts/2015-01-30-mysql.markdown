@@ -15,9 +15,21 @@ permalink: /mysql.html
 ---
 
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+<b>Maitriser les bases de données, une compétence indispensable pour un développeur</b>
 
+MySQL est un systéme de gestion de bases de données relationnelles. Ces bases de données
+sont utilisées trés largement en entreprise, afin de stocker les données necessaire au bon
+fonctionnement des applications avec efficacité et performance de lecture.
+
+<b>Les contextes dans lesquels j'ai utilisé MySQL</b>
+
+J'ai utilisé MySQL et effectué diverses requétes sur des bases de données pendant mes études
+(logiciel de SmartHome, PixLogic, SynoukMustDie,...) ainsi que pendant mon experience chez Alltricks.
+J'ai a la fois communiqué avec la base via des ORM comme Entity Framework ou Doctrine, qui permettent
+de mapper les données de la base dans des classes utilisables par les divers langages de programmation
+(C#, Java, Php).
+J'ai également effectué des requétes SQL directement, et des migrations afin de maintenir
+la base a jour avec nos besoins.
+
+Compétence mise en oeuvre dans le(s) projet(s) :
 - [Alltricks]({{site.url}}/myportfolio/Alltricks)
-
-Développements réalisés
-- Logiciel de gestion de SmartHome
