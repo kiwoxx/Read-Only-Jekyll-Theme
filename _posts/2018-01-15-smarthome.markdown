@@ -15,9 +15,7 @@ permalink: /smarthome.html
 ---
 
 
-Le projet SmartHome est le projet projet de fin d'étude réalisé en équipe de 7 lors de mon dernier semestre en
-licence Informatique à l'Université de Versailles Saint-Quentin. Nous devions réalisé un logiciel de gestion
-de SmartHome en java.
+Le projet SmartHome est le projet projet de fin d'étude réalisé en équipe de 7 lors de mon dernier semestre en licence Informatique à l'Université de Versailles Saint-Quentin. Nous devions réaliser un logiciel de gestion de SmartHome en java.
 
 Compétences mises en oeuvre dans ce Projet :
 

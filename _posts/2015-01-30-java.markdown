@@ -29,6 +29,7 @@ de Versailles Saint-Quentin. Je l'ai notamment mis en application dans des proje
 Cryptographie, architecture, et lors de mon projet de fin de licence : un systéme de gestion de
 SmartHome.
 
+<b>Le développement mobile avec Java</b>
 De plus, j'ai également suivi une formation au développement Mobile sur Android en JAVA,
 lors de ma 4eme année à InTech. Cette formation s'est achevée par le développement d'une petite
 application Android installable sur nos Smartphones.

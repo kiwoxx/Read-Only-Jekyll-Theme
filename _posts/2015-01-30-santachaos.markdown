@@ -36,6 +36,6 @@ Nous avons, avec une équipe de 4 personnes, organisé un laser game afin de dé
 Nous avons tout d'abord défini le périmétre du projet, géré le lieu, les fournisseurs de matériel, et les éventuels risques et imprévus pouvant être présent le jour de l'évenement.
 Nous avons appris a gérer un budget prévisionnel, organiser des buvettes et évenements pour collecter de l'argent, et faire la promotion de notre évenement au niveau interne à l'école comme a l'éxterieur.
 
-Nous avons beaucoup développés nos compétences humaines durant toute la durée de ce projet, en particulier notre niveau de communication et d'organisation de l'équipe. 
+Nous avons développés nos compétences humaines durant toute la durée de ce projet, en particulier notre niveau de communication et d'organisation de l'équipe. 
 
 ---

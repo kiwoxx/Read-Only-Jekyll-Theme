@@ -25,6 +25,8 @@ J'ai notamment abordé les sujets suivants :
 - Gestion des messages envoyés a RabbitMQ, notre gestionnaire de file d'attentes de messages (envoie des commandes a sage, mails, communication avec salesforce)
 - Refonte de l'envoi des différents mails
 - Gestion des transporteurs, des modes de paiements.
+- Creation d'un outil de pricing automatique des produits grace aux informations récupérées
+avec Power BI.
 
 J'ai donc pu aborder de nombreux sujets en utilisant Symfony, et j'ai ainsi développé mes compétences sur ce framework.
 
