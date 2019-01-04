@@ -29,6 +29,7 @@ Objectifs :
  - Adapter les tâches correspondant le mieux a chacun
  - Travailler dans un environnement favorable afin d'améliorer la productivité
 
+<img src="images/TeamAlltricks.jpg" alt="Alltricks" style=" width: 400px;"/>
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
