@@ -15,12 +15,12 @@ permalink: /csharp.html
 ---
 
 <b>Le langage phare de Microsoft</b>
-<br>
+<br><br>
 Le C# est un langage de programmation orienté objet, commercialisé par Microsoft, basé sur le
 framework .NET.
 
 <b>Un langage appris à InTech dans le cadre de mon diplome d'expert en ingénierie du logiciel</b>
-</br>
+<br><br>
 J'ai utilisé ce langage lors de mes études à InTech.
 Nous avons réalisés 2 projets majeurs, pendant une durée de 4 mois chacun :
 - PixLogic, un logiciel de gestion du matériel et des réservations pour l'école de photographie
