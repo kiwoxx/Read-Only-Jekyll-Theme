@@ -11,7 +11,7 @@ star: true
 category: competences
 author: Lucas
 description: Compétence en Web : PHP/HTML/CSS
-permalink: /php.html
+permalink: /web.html
 ---
 
 <center>Les bases indispensables en développement Web</center>
@@ -42,4 +42,3 @@ Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor)
 - [Backoffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice)
-
