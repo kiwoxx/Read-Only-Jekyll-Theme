@@ -27,8 +27,9 @@ Il faut mieux prendre plus de temps pour réaliser des spécifications que quali
 Objectifs :
  - Repondre aux besoins du client
  - Rendre cela compréhensible aisément par le développeur
- - Ne pas laisser de zones d'ombre quand au développement a fournir
+ - Ne pas laisser de zones d'ombre sur le développement a fournir
 
 Compétences mise en oeuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
+- [PixLogic]({{site.url}}/myportfolio/Alltricks)
