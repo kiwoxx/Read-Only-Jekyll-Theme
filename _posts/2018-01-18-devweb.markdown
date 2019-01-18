@@ -14,7 +14,7 @@ description: Développement Web
 permalink: /devweb.html
 ---
 
-<center><b>Les bases indispensables en développement Web</b></center><br>
+<b>Les bases indispensables en développement Web</b><br>
 
 <p>
 Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont necessaires quelque
@@ -24,7 +24,7 @@ Etant particuliérement interessé par le développement Web, j'ai appris au cou
 premières expériences professionnelles à maitriser ces différentes technologies.
 </p>
 
-<center><b>Mon experience</b></center><br>
+<b>Mon experience</b><br>
 
 <p>
 Lors de mon apprentissage chez Alltricks, j'ai travaillé sur le site ZoneOutdoor, développé
