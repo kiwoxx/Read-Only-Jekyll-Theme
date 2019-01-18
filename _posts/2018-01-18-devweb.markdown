@@ -1,5 +1,5 @@
 ---
-title: "web"
+title: "Développement Web"
 layout: post
 date: 2018-01-15 00:00
 image: /assets/images/markdown.jpg
@@ -11,7 +11,7 @@ star: true
 category: competences
 author: Lucas
 description: Compétence en Web : PHP/HTML/CSS
-permalink: /web.html
+permalink: /devweb.html
 ---
 
 <center>Les bases indispensables en développement Web</center>

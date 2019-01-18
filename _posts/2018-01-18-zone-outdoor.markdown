@@ -22,7 +22,7 @@ afin de correspondre aux modifications effectuées en paralléle sur le site All
 
 Compétences mises en oeuvre dans ce Projet :
 
-- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/compweb)
+- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/devweb)
 - [MySQL]({{site.url}}/myportfolio/mysql)
 - [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
 

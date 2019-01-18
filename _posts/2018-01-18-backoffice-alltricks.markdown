@@ -27,7 +27,7 @@ J'ai à la fois travaillé sur l'affichage (HTML, CSS) et le back-end (PHP, Java
 
 Compétences mises en oeuvre dans ce Projet :
 
-- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/compweb)
+- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/devweb)
 - [MySQL]({{site.url}}/myportfolio/mysql)
 - [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
 

@@ -43,7 +43,7 @@ J'ai donc pu aborder de nombreux sujets en utilisant Symfony, et j'ai ainsi dév
 
 Compétences mises en oeuvre dans ce Projet :
 
-- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/compweb)
+- [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/devweb)
 - [Symfony]({{site.url}}/myportfolio/symfony)
 - [MySQL]({{site.url}}/myportfolio/mysql)
 - [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
