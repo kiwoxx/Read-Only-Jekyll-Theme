@@ -16,13 +16,20 @@ permalink: /team.html
 
 Compétence humaine : Travail en équipe
 
-« L'union fait la force »
+<b>« L'union fait la force »</b>
 
-Lors d’un des projets effectué à l’école INTECH, nous avons eu plusieurs problémes de communication au sein de l’équipe.
-Un membre de l’équipe n’étant pas interessé par le projet, nous étions en retard sur la date de rendu et le projet semblais mal engagé.
-Nous avons donc pris la décision de modifier l assignation des taches et de faire tra-vailler chacun sur ce qui lui plaisait le plus, et de prendre des créneaux pour aider les personnes du groupe possédant des difficultés sur une partie du travail.
-Lors de l’itération suivante, nous avions rattrapé notre retard et nous avons finalement rendu le projet dans les temps et en repondant aux spécifications.
-Cela m’a démontré l’importance de la communication et de la bonne entente au sein d’une equipe dans notre métier de développeur.
+Dans n'importe quelle branche de métier, il est indispensable d'adopter un comportement
+adapté au travail en équipe. La répartition des tâches, la communication, et le respect des
+règles permettent de mener a bien des projets, qui sont pour la majorité irréalisables par un développeur solitaire.
+Une hiérarchie et une répartitions des tâches permettent d'arriver a des résultats de qualité.
+
+<b>Mise en application</b>
+
+Lors d’un des projets effectué à l’école INTECH, nous avons eu plusieurs problèmes de communication au sein de l’équipe.
+Un membre de l’équipe n’étant pas intéressé par le projet, nous étions en retard sur la date de rendu et le projet semblais mal engagé.
+Nous avons donc pris la décision de modifier l assignation des taches et de faire travailler chacun sur ce qui lui plaisait le plus, et de prendre des créneaux pour aider les personnes du groupe possédant des difficultés sur une partie du travail.
+Lors de l’itération suivante, nous avions rattrapé notre retard et nous avons finalement rendu le projet dans les temps et en répondant aux spécifications.
+Cela m’a démontré l’importance de la communication et de la bonne entente au sein d’une équipe dans notre métier de développeur.
 
 Objectifs :
  - Communiquer ensemble afin de résoudres les problémes

@@ -17,11 +17,11 @@ permalink: /devweb.html
 <b>Les bases indispensables en développement Web</b><br>
 
 <p>
-Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont necessaires quelque
+Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont nécessaires quelque
 soit le langage ou les Frameworks utilisés dans le cadre du développement d'un site internet moderne.
-Tout développeur Web, back-end ou front-end, doit maitriser les concepts de base.
-Etant particuliérement interessé par le développement Web, j'ai appris au cours de mon cursus et de mes
-premières expériences professionnelles à maitriser ces différentes technologies.
+Tout développeur Web, back-end ou front-end, doit maîtriser les concepts de base.
+Étant particulièrement intéressé par le développement Web, j'ai appris au cours de mon cursus et de mes
+premières expériences professionnelles à maîtriser ces différentes technologies.
 </p>
 
 <b>Mon experience</b><br>

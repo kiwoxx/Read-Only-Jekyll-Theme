@@ -15,7 +15,7 @@ permalink: /synoukmustdie.html
 ---
  Conception d'un jeu 2D en C# à l'aide d'Unity 3D, avec 5 autres développeurs.
 
-Compétences mises en oeuvre dans ce Projet :
+Compétences mises en œuvre dans ce Projet :
 
 - [C#]({{site.url}}/myportfolio/csharp)
 - [MySQL]({{site.url}}/myportfolio/mysql)
@@ -24,16 +24,16 @@ Compétences mises en oeuvre dans ce Projet :
 
 <div class="side-by-side">
     <div class="toright">
-        <p>Le but de ce projet était de créer un jeu 2D è l'aide d'Unity.
-        Nous avons travaillés sur les spécifications, le gameplay, la création des scénes dans Unity,
+        <p>Le but de ce projet était de créer un jeu 2D à l'aide d'Unity.
+        Nous avons travaillés sur les spécifications, le gameplay, la création des scènes dans Unity,
         et surtout le développement des scripts C#</p>
     </div>
 </div>
 <div>
-    Nous avons réalisé une partie du jeu, une scéne contenant un campement qui permet
-    de créer des troupes, les améliorer, et obtenir différents objets necessaires a la
+    Nous avons réalisé une partie du jeu, une scène contenant un campement qui permet
+    de créer des troupes, les améliorer, et obtenir différents objets nécessaires a la
     progression du joueur.
-    Nous avons donc du gérer la partie graphique, via Unity 3D, et la partie scipts
+    Nous avons donc du gérer la partie graphique, via Unity 3D, et la partie scripts
     en C# permettant au jeu de fonctionner et d'interagir avec la base de données.
     Ce jeu était jouable a la fin de notre projet, et les principales fonctionnalités prévues
     étaient présentes pour la présentation finale.

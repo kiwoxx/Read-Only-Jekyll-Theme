@@ -17,7 +17,7 @@ permalink: /alltricks.html
 Lors de mon stage et de mon alternance, j'ai travaillé chez Alltricks, un site E-commerce spécialisé
 dans les articles de vélo et de running.
 Alltricks est une entreprise composée d'environ 150 collaborateurs, répartis entre un openspace,
-un entrepot logistique, et deux magasins physiques.
+un entrepôt logistique, et deux magasins physiques.
 Le site alltricks.fr, c'est :
 - Plus de 1.4 million de produits expédiés
 - Plus de 700 000 clients
@@ -36,12 +36,12 @@ J'ai notamment abordé les sujets suivants :
 - Creation d'un outil de pricing automatique des produits grace aux informations récupérées
 avec Power BI.
 
-J'ai donc pu aborder de nombreux sujets en utilisant Symfony, et j'ai ainsi développé mes compétences sur ce framework. Nous avons notamment refactorisé le site en appliquant au maximum les bons principes de programmation :
+J'ai donc pu aborder de nombreux sujets en utilisant Symfony, et j'ai ainsi développé mes compétences sur ce framework. Nous avons notamment refactoriser le site en appliquant au maximum les bons principes de programmation :
 - PSR
 - Code SOLID
 - Mise en place d'une architecture CQRS pour les nouveaux modules du projet.
 
-Compétences mises en oeuvre dans ce Projet :
+Compétences mises en œuvre dans ce Projet :
 
 - [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/devweb)
 - [Symfony]({{site.url}}/myportfolio/symfony)

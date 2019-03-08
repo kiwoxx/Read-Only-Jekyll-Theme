@@ -17,14 +17,14 @@ permalink: /web.html
 <center>Les bases indispensables en développement Web</center>
 
 <p>
-Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont necessaires quelque
+Les bases en programmation web (HTML, CSS, AJAX, développement d'API) sont nécessaires quelque
 soit le langage ou les Frameworks utilisés dans le cadre du développement d'un site internet moderne.
-Tout développeur Web, back-end ou front-end, doit maitriser les concepts de base.
-Etant particuliérement interessé par le développement Web, j'ai appris au cours de mon cursus et de mes
-premières expériences professionnelles à maitriser ces différentes technologies.
+Tout développeur Web, back-end ou front-end, doit maîtriser les concepts de base.
+Étant particulièrement intéressé par le développement Web, j'ai appris au cours de mon cursus et de mes
+premières expériences professionnelles à maîtriser ces différentes technologies.
 </p>
 
-<center>Mon experience</center>
+<center>Mon expérience</center>
 
 <p>
 Lors de mon apprentissage chez Alltricks, j'ai travaillé sur le site ZoneOutdoor, développé
@@ -38,7 +38,7 @@ sur le site zone-outdoor (tunnel de paiement, pages produits, ...).
 </p>
 
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+Compétences mise en œuvre dans le(s) projet(s) :
 
 - [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor)
 - [Backoffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice)

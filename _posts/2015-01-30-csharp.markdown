@@ -19,7 +19,7 @@ permalink: /csharp.html
 Le C# est un langage de programmation orienté objet, commercialisé par Microsoft, basé sur le
 framework .NET.
 
-<b>Un langage appris à InTech dans le cadre de mon diplome d'expert en ingénierie du logiciel</b>
+<b>Un langage appris à InTech dans le cadre de mon diplôme d'expert en ingénierie du logiciel</b>
 <br><br>
 J'ai utilisé ce langage lors de mes études à InTech.
 Nous avons réalisés 2 projets majeurs, pendant une durée de 4 mois chacun :
@@ -31,10 +31,10 @@ Ce projet a été réalisé en semestre 5 avec une équipe de 5 autres étudiant
 Nous avons également réalisés de nombreux exercices pendant notre formation, dans de différents domaines.
 
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+Compétences mise en œuvre dans le(s) projet(s) :
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
 - [SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 
 Frameworks utilisés :
-- Communication avec la bdd grace à EntityFramework
+- Communication avec la base de données grâce à EntityFramework
 - Interface utilisateur avec Windows Form

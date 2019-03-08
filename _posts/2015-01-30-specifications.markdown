@@ -16,7 +16,7 @@ permalink: /specifications.html
 
 Compétence humaine : Rédaction de spécifications
 
-« Les specifications : la clé d'un développement de qualité »
+<b>« Les spécifications : la clé d'un développement de qualité »</b>
 
 Lors de mon projet de fin d’étude de licence informatique à l’université, j’ai du rédiger les spécifications fonctionnelles et techniques pour mon équipe.
 J’ai tout d’abord analysé les besoins et demandes du client, et j’ai rédigé ce document.
@@ -25,11 +25,11 @@ J’ai donc appris qu’il est essentiel d’exprimer clairement le besoin afin 
 Il faut mieux prendre plus de temps pour réaliser des spécifications que qualité plutôt que de le regretter dans le futur.
 
 Objectifs :
- - Repondre aux besoins du client
+ - Répondre aux besoins du client
  - Rendre cela compréhensible aisément par le développeur
  - Ne pas laisser de zones d'ombre sur le développement a fournir
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+Compétences mise en œuvre dans le(s) projet(s) :
 
 - [PixLogic]({{site.url}}/myportfolio/PixLogic)
 - [PixLogic]({{site.url}}/myportfolio/Alltricks)

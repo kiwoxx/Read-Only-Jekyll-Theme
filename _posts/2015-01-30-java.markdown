@@ -14,10 +14,10 @@ description: Compétence en Java
 permalink: /java.html
 ---
 <b>Un langage objet utilisé pour le développement de nombreuses applications</b>
-Java est utilisé trés largement en entreprise
-D'aprés le site officiel d'oracle, Java c'est :
+Java est utilisé très largement en entreprise
+D’après le site officiel d'oracle, Java c'est :
 - 97 % des bureaux d'entreprise exécutent Java
-- 89 % des bureaux (ou ordinateurs) des Etats-Unis exécutent Java
+- 89 % des bureaux (ou ordinateurs) des États-Unis exécutent Java
 - 9 millions de développeurs Java dans le monde
 - Le choix n° 1 des développeurs
 - Plate-forme de développement n° 1
@@ -26,7 +26,7 @@ D'aprés le site officiel d'oracle, Java c'est :
 <b>Les bases apprises pendant mes études</b>
 J'ai utilisé le langage Java lors de mes années de licence Informatique à l'Université
 de Versailles Saint-Quentin. Je l'ai notamment mis en application dans des projets de
-Cryptographie, architecture, et lors de mon projet de fin de licence : un systéme de gestion de
+Cryptographie, architecture, et lors de mon projet de fin de licence : un système de gestion de
 SmartHome.
 
 <b>Le développement mobile avec Java</b>
@@ -35,7 +35,7 @@ lors de ma 4eme année à InTech. Cette formation s'est achevée par le dévelop
 application Android installable sur nos Smartphones.
 
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+Compétences mise en œuvre dans le(s) projet(s) :
 
 - [SmartHome]({{site.url}}/myportfolio/SmartHome)
 

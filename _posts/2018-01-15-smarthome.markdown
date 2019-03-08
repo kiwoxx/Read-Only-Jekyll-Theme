@@ -40,8 +40,8 @@ Compétences mises en oeuvre dans ce Projet :
 Sous la direction de notre professeur, qui avait le rôle de client lors de ce projet, nous avons du réaliser un
 Logiciel de gestion d'une maison intelligente, ou "SmartHome". Nous avions choisis d'utiliser le langage
 Java et une base de donnée MySQL.
-Ce projet devait permettre d'interagir avec une SmartHome : de récuperer des données de nombreux capteurs, que nous avons simulés dans le code, puis d'analyser et de traiter ces données afin de renvoyer les actions voulues aux composants de la maison intelligente, afin d'optimiser le confort de l'utilisateur et les consommations énergetiques.
-Nous avons tout d'abord défini les besoins du client et analyser de façcon fonctionnelle a quels objectifs
+Ce projet devait permettre d'interagir avec une SmartHome : de récupérer des données de nombreux capteurs, que nous avons simulés dans le code, puis d'analyser et de traiter ces données afin de renvoyer les actions voulues aux composants de la maison intelligente, afin d'optimiser le confort de l'utilisateur et les consommations énergétiques.
+Nous avons tout d'abord défini les besoins du client et analyser de façon fonctionnelle a quels objectifs
 devrait répondre notre logiciel.
 Ensuite, nous avons rédigé un cahier des charges contenant l'ensemble des spécifications fonctionnelles et techniques, avant de nous lancer dans le développement.
 J'ai travaillé en grande partie sur la partie communication avec la base de donnée.

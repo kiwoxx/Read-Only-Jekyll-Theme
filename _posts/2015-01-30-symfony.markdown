@@ -26,6 +26,6 @@ J’ai travaillé lors de mon apprentissage de 2 ans et demi en tant que dévelo
 Notre objectif était de migrer un site legacy (une ancienne version) conçu en PHP, et de le faire passer sous Symfony, en respectant les bons principes de programmation (SOLID, utilisations des micro-services, clarifier le code) afin de rendre ce site fiable et maintenable pour faciliter nos évolutions futures.
 J’ai donc appris à utiliser ce Framework en liaison avec plusieurs API externes (RabbitMQ, Sparkow, Sage), tout en me focalisant sur l’efficacité et la maintenabilité du code.
 
-Compétences mise en oeuvre dans le(s) projet(s) :
+Compétences mise en œuvre dans le(s) projet(s) :
 
 - [Alltricks]({{site.url}}/myportfolio/Alltricks)

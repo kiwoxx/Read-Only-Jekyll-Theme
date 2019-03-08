@@ -16,7 +16,7 @@ permalink: /alltricks-backoffice.html
 
 Le service client ainsi que les acheteurs d'Alltricks utilisent un backoffice développé en PHP
 afin de pouvoir gérer les utilisateurs, les commandes, les produits et les besoins internes.
-Ce backoffice ayant été developpé avant la refonte de notre site front sous Symfony, il utilise encore
+Ce backoffice ayant été développé avant la refonte de notre site front sous Symfony, il utilise encore
 un ancien framework PHP.
 J'ai du effectuer plusieurs corrections de bugs et améliorations, ou ajout de fonctionnalités :
 - création d'avoirs automatiques lors de ruptures de commandes
@@ -25,7 +25,7 @@ J'ai du effectuer plusieurs corrections de bugs et améliorations, ou ajout de f
 
 J'ai à la fois travaillé sur l'affichage (HTML, CSS) et le back-end (PHP, Javascript)
 
-Compétences mises en oeuvre dans ce Projet :
+Compétences mises en œuvre dans ce Projet :
 
 - [Web : PHP, HTML, CSS, JavaScript]({{site.url}}/myportfolio/devweb)
 - [MySQL]({{site.url}}/myportfolio/mysql)
