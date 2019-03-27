@@ -14,6 +14,12 @@ externalLink: false
 permalink: /santachaos.html
 ---
 
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html)
+[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html)
+[Alltricks]({{site.url}}/myportfolio/alltricks.html)
+[SmartHome]({{site.url}}/myportfolio/smarthome.html)
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html)
+[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 
 Le projet SantaChaos est un événement réalisé lors de mes études, ayant pour but d'organiser un Laser Game dans les locaux de notre école en totale autonomie.
 
