@@ -14,6 +14,7 @@ externalLink: false
 permalink: /synoukmustdie.html
 ---
  Conception d'un jeu 2D en C# à l'aide d'Unity 3D, avec 5 autres développeurs.
+ Mon role : développeur.
 
 Compétences mises en œuvre dans ce Projet :
 

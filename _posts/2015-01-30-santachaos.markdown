@@ -36,6 +36,7 @@ Nous avons tout d'abord défini le périmètre du projet, géré le lieu, les fo
 Nous avons appris a gérer un budget prévisionnel, organiser des buvettes et événements pour collecter de l'argent, et faire la promotion de notre événement au niveau interne à l'école comme a l’extérieur.
 
 Nous avons développés nos compétences humaines durant toute la durée de ce projet, en particulier notre niveau de communication et d'organisation de l'équipe.
+J'étais chargé en particulier des relations avec nos partenaires (location, achats de materiels, nourriture, ...)
 
 Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
 [BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -

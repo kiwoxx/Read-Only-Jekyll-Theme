@@ -17,6 +17,8 @@ permalink: /smarthome.html
 
 Le projet SmartHome est le projet projet de fin d'étude réalisé en équipe de 7 lors de mon dernier semestre en licence Informatique à l'Université de Versailles Saint-Quentin. Nous devions réaliser un logiciel de gestion de SmartHome en java.
 
+Mon rôle : développeur.
+
 Compétences mises en oeuvre dans ce Projet :
 
 - [Java]({{site.url}}/myportfolio/csharp)
@@ -50,6 +52,6 @@ Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
 [BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
 [Alltricks]({{site.url}}/myportfolio/alltricks.html) -
 [SmartHome]({{site.url}}/myportfolio/smarthome.html) -
-[PixLogic]({{site.url}}/myportfolio/PixLogic.html) - 
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html) -
 [SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 ---

@@ -15,6 +15,7 @@ permalink: /PixLogic.html
 ---
 
 Le projet PixLogic avait pour but principal de fournir une solution logicielle au personnel de l’école de photographie CE3P, afin de leur permettre de gérer leurs stocks de matériels.
+Mon rôle : Chef de projet + développeur.
 
 Compétences mises en oeuvre dans ce Projet :
 
@@ -60,7 +61,7 @@ contenant les filtres necessaire a l'affichage des logs voulus par l'utilisateur
 Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
 [BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
 [Alltricks]({{site.url}}/myportfolio/alltricks.html) -
-[SmartHome]({{site.url}}/myportfolio/smarthome.html) - 
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) -
 [SantaChaos]({{site.url}}/myportfolio/santachaos.html) -
 [SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 ---
