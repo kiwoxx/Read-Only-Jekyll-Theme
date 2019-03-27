@@ -13,7 +13,7 @@ author: Lucas
 description: Compétence en Java
 permalink: /java.html
 ---
-<b>Un langage objet utilisé pour le développement de nombreuses applications</b>
+<b>Un langage objet utilisé pour le développement de nombreuses applications</b><br>
 Java est utilisé très largement en entreprise
 D’après le site officiel d'oracle, Java c'est :
 - 97 % des bureaux d'entreprise exécutent Java
@@ -23,13 +23,13 @@ D’après le site officiel d'oracle, Java c'est :
 - Plate-forme de développement n° 1
 - 3 milliards de téléphones mobiles exécutent Java
 
-<b>Les bases apprises pendant mes études</b>
+<b>Les bases apprises pendant mes études</b><br>
 J'ai utilisé le langage Java lors de mes années de licence Informatique à l'Université
 de Versailles Saint-Quentin. Je l'ai notamment mis en application dans des projets de
 Cryptographie, architecture, et lors de mon projet de fin de licence : un système de gestion de
 SmartHome.
 
-<b>Le développement mobile avec Java</b>
+<b>Le développement mobile avec Java</b><br>
 De plus, j'ai également suivi une formation au développement Mobile sur Android en JAVA,
 lors de ma 4eme année à InTech. Cette formation s'est achevée par le développement d'une petite
 application Android installable sur nos Smartphones.
