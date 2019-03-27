@@ -39,4 +39,10 @@ Compétences mises en œuvre dans ce Projet :
     étaient présentes pour la présentation finale.
 </div>
 
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
+[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
+[Alltricks]({{site.url}}/myportfolio/alltricks.html) -
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) -
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html) -
+[SantaChaos]({{site.url}}/myportfolio/santachaos.html)
 ---

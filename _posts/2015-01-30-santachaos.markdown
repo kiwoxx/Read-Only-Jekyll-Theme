@@ -14,13 +14,6 @@ externalLink: false
 permalink: /santachaos.html
 ---
 
-Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html)
-[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html)
-[Alltricks]({{site.url}}/myportfolio/alltricks.html)
-[SmartHome]({{site.url}}/myportfolio/smarthome.html)
-[PixLogic]({{site.url}}/myportfolio/PixLogic.html)
-[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
-
 Le projet SantaChaos est un événement réalisé lors de mes études, ayant pour but d'organiser un Laser Game dans les locaux de notre école en totale autonomie.
 
 Compétences mises en œuvre dans ce Projet :
@@ -44,4 +37,10 @@ Nous avons appris a gérer un budget prévisionnel, organiser des buvettes et é
 
 Nous avons développés nos compétences humaines durant toute la durée de ce projet, en particulier notre niveau de communication et d'organisation de l'équipe.
 
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
+[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
+[Alltricks]({{site.url}}/myportfolio/alltricks.html) -
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) -
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html) -
+[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 ---

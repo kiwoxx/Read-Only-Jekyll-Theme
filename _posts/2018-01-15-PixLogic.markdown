@@ -56,4 +56,11 @@ J'ai également travaillé sur le frontend, notamment sur l'affichage du panneau
 contenant les filtres necessaire a l'affichage des logs voulus par l'utilisateur.
 
 <img src="{{ site.baseurl }}/images/LogoPixlogic.png">
+
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
+[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
+[Alltricks]({{site.url}}/myportfolio/alltricks.html) -
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) - 
+[SantaChaos]({{site.url}}/myportfolio/santachaos.html) -
+[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 ---

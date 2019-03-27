@@ -46,4 +46,10 @@ devrait répondre notre logiciel.
 Ensuite, nous avons rédigé un cahier des charges contenant l'ensemble des spécifications fonctionnelles et techniques, avant de nous lancer dans le développement.
 J'ai travaillé en grande partie sur la partie communication avec la base de donnée.
 
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) -
+[BackOffice Alltricks]({{site.url}}/myportfolio/alltricks-backoffice.html) -
+[Alltricks]({{site.url}}/myportfolio/alltricks.html) -
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) -
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html) - 
+[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 ---

@@ -31,6 +31,11 @@ Compétences mises en œuvre dans ce Projet :
 - [MySQL]({{site.url}}/myportfolio/mysql)
 - [Analyse des besoins client]({{site.url}}/myportfolio/analyse-besoin)
 
-
+Autres projets: [ZoneOutdoor]({{site.url}}/myportfolio/zone-outdoor.html) - 
+[Alltricks]({{site.url}}/myportfolio/alltricks.html) -
+[SmartHome]({{site.url}}/myportfolio/smarthome.html) -
+[PixLogic]({{site.url}}/myportfolio/PixLogic.html) -
+[SantaChaos]({{site.url}}/myportfolio/santachaos.html) -
+[SynoukMustDie]({{site.url}}/myportfolio/synoukmustdie.html)
 
 ---
